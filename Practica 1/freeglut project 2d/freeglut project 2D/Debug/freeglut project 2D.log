@@ -1,0 +1,26 @@
+﻿Build started 03/11/2013 18:59:17.
+     1>Project "D:\Teresa\Clase\Uni\4º\IG\Practica 1\freeglut project 2d\freeglut project 2D\freeglut project 2D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /I"D:\Teresa\Clase\Uni\4º\IG\Practica 1\freeglut project 2d\freeglut\include\\" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Arbol.cpp Cuadrado.cpp
+         Cuadrado.cpp
+     1>d:\teresa\clase\uni\4º\ig\practica 1\freeglut project 2d\freeglut project 2d\cuadrado.cpp(105): warning C4172: returning address of local variable or temporary
+     1>d:\teresa\clase\uni\4º\ig\practica 1\freeglut project 2d\freeglut project 2d\cuadrado.cpp(111): warning C4172: returning address of local variable or temporary
+         Arbol.cpp
+     1>d:\teresa\clase\uni\4º\ig\practica 1\freeglut project 2d\freeglut project 2d\arbol.cpp(16): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\teresa\clase\uni\4º\ig\practica 1\freeglut project 2d\freeglut project 2d\arbol.cpp(38): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\teresa\clase\uni\4º\ig\practica 1\freeglut project 2d\freeglut project 2d\arbol.cpp(40): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\teresa\clase\uni\4º\ig\practica 1\freeglut project 2d\freeglut project 2d\arbol.cpp(112): warning C4172: returning address of local variable or temporary
+         Generating Code...
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Teresa\Clase\Uni\4º\IG\Practica 1\freeglut project 2d\Debug\freeglut project 2D.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Teresa\Clase\Uni\4º\IG\Practica 1\freeglut project 2d\freeglut\lib\\" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Teresa\Clase\Uni\4º\IG\Practica 1\freeglut project 2d\Debug\freeglut project 2D.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Teresa\Clase\Uni\4º\IG\Practica 1\freeglut project 2d\Debug\freeglut project 2D.lib" /MACHINE:X86 Debug\Arbol.obj
+         Debug\Cuadrado.obj
+         Debug\Escena.obj
+         Debug\Lapiz.obj
+         Debug\main.obj
+         Debug\Punto.obj
+         freeglut project 2D.vcxproj -> D:\Teresa\Clase\Uni\4º\IG\Practica 1\freeglut project 2d\Debug\freeglut project 2D.exe
+     1>Done Building Project "D:\Teresa\Clase\Uni\4º\IG\Practica 1\freeglut project 2d\freeglut project 2D\freeglut project 2D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.94

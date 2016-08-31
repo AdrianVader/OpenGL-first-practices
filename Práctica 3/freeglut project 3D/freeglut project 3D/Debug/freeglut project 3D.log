@@ -1,0 +1,27 @@
+﻿Build started 05/01/2014 17:18:31.
+     1>Project "D:\Teresa\Clase\Uni\4º\IG\Práctica 3\freeglut project 3D\freeglut project 3D\freeglut project 3D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /I"D:\Teresa\Clase\Uni\4º\IG\Práctica 3\freeglut project 3D\freeglut\include\\" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\teresa\clase\uni\4º\ig\práctica 3\freeglut project 3d\freeglut project 3d\main.cpp(247): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\teresa\clase\uni\4º\ig\práctica 3\freeglut project 3d\freeglut project 3d\main.cpp(249): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\teresa\clase\uni\4º\ig\práctica 3\freeglut project 3d\freeglut project 3d\main.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\teresa\clase\uni\4º\ig\práctica 3\freeglut project 3d\freeglut project 3d\main.cpp(261): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\teresa\clase\uni\4º\ig\práctica 3\freeglut project 3d\freeglut project 3d\main.cpp(265): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\teresa\clase\uni\4º\ig\práctica 3\freeglut project 3d\freeglut project 3d\main.cpp(267): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\teresa\clase\uni\4º\ig\práctica 3\freeglut project 3d\freeglut project 3d\main.cpp(274): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Teresa\Clase\Uni\4º\IG\Práctica 3\freeglut project 3D\Debug\freeglut project 3D.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Teresa\Clase\Uni\4º\IG\Práctica 3\freeglut project 3D\freeglut\lib\\" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Teresa\Clase\Uni\4º\IG\Práctica 3\freeglut project 3D\Debug\freeglut project 3D.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Teresa\Clase\Uni\4º\IG\Práctica 3\freeglut project 3D\Debug\freeglut project 3D.lib" /MACHINE:X86 Debug\Cara.obj
+         Debug\CirculoEspiral.obj
+         Debug\main.obj
+         Debug\Malla.obj
+         Debug\Panel.obj
+         Debug\PV3D.obj
+         Debug\Satelite.obj
+         Debug\VerticeNormal.obj
+         freeglut project 3D.vcxproj -> D:\Teresa\Clase\Uni\4º\IG\Práctica 3\freeglut project 3D\Debug\freeglut project 3D.exe
+     1>Done Building Project "D:\Teresa\Clase\Uni\4º\IG\Práctica 3\freeglut project 3D\freeglut project 3D\freeglut project 3D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.67
